@@ -25,4 +25,10 @@ public class ServicioBase {
 		}
 		
 	}
+
+	public Connection getConexion() {
+		return conexion;
+	}
+	
+	
 }
